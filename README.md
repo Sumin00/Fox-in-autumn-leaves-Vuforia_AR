@@ -1,2 +1,2 @@
 # Vuforia_AR
-Implement AR App with Vuforia
+Implement AR Application with Vuforia
